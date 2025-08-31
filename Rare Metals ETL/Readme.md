@@ -2,7 +2,7 @@
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)  
 ![Databricks](https://img.shields.io/badge/Databricks-Analytics-red?logo=databricks&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
 
 ---
 
