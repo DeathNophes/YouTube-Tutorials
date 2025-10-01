@@ -1,0 +1,62 @@
+[
+    {
+        "Title": "The Great Gatsby",
+        "Author": "F. Scott Fitzgerald",
+        "Year": 1925,
+        "Available": true
+    },
+    {
+        "Title": "1984",
+        "Author": "George Orwell",
+        "Year": 1949,
+        "Available": false
+    },
+    {
+        "Title": "To Kill a Mockingbird",
+        "Author": "Harper Lee",
+        "Year": 1960,
+        "Available": true
+    },
+    {
+        "Title": "Moby-Dick",
+        "Author": "Herman Melville",
+        "Year": 1851,
+        "Available": false
+    },
+    {
+        "Title": "War and Peace",
+        "Author": "Leo Tolstoy",
+        "Year": 1869,
+        "Available": true
+    },
+    {
+        "Title": "Pride and Prejudice",
+        "Author": "Jane Austen",
+        "Year": 1813,
+        "Available": true
+    },
+    {
+        "Title": "The Hobbit",
+        "Author": "J.R.R. Tolkien",
+        "Year": 1937,
+        "Available": false
+    },
+    {
+        "Title": "The Catcher in the Rye",
+        "Author": "J.D. Salinger",
+        "Year": 1951,
+        "Available": true
+    },
+    {
+        "Title": "Brave New World",
+        "Author": "Aldous Huxley",
+        "Year": 1932,
+        "Available": true
+    },
+    {
+        "Title": "Crime and Punishment",
+        "Author": "Fyodor Dostoevsky",
+        "Year": 1866,
+        "Available": false
+    }
+]
